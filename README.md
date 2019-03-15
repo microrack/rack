@@ -1,24 +1,24 @@
 # rack
 Motherboard with power and base audio output for synth modules
 
-# Mechanical specifications
+## Mechanical specifications
 
 * module height
 * supply placings
 * mount holes
 
-# Mechanical recomendations
+## Mechanical recomendations
 
 * module width as small as possible
 * height of controls
 * minimal distance between controls
 
-# Electrical specifications
+## Electrical specifications
 
 * supply voltage and tolerance
 * recommended and maximum current
 
-# Electrical recomendations (for interconnect)
+## Electrical recomendations (for interconnect)
 
 * Many inputs (sum), many outpus (parallel)
 * Protect outputs with resistors (100 ohm typ.)
