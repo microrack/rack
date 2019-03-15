@@ -15,8 +15,9 @@ Motherboard with power and base audio output for synth modules
 
 ## Electrical specifications
 
-* supply voltage and tolerance
-* recommended and maximum current
+* Supply voltage: ±9 volt, ±5%
+* Maximum supply current: 500 mA @ -9V / 1000 mA @ +9V (it is total maximum current of all modules)
+* Recommended supply current: 50 mA @ -9 V / 50 mA @ -9V
 
 ## Electrical recommendations (for interconnect)
 
