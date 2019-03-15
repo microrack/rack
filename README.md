@@ -7,7 +7,7 @@ Motherboard with power and base audio output for synth modules
 * supply placings
 * mount holes
 
-## Mechanical recomendations
+## Mechanical recommendations
 
 * module width as small as possible
 * height of controls
@@ -18,7 +18,7 @@ Motherboard with power and base audio output for synth modules
 * supply voltage and tolerance
 * recommended and maximum current
 
-## Electrical recomendations (for interconnect)
+## Electrical recommendations (for interconnect)
 
 * Many inputs (sum), many outpus (parallel)
 * Protect outputs with resistors (100 ohm typ.)
