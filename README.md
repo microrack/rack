@@ -40,7 +40,7 @@ Non-adjustable and noninverting input schematic (you can add optional potentiome
 
 * Use attenuverter for CV outputs
 
-![input example](spec/attenuverter.png)
+![input example](spec/attenuverter_output.png)
 
 * use linear regulator for power supply
 
