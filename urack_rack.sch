@@ -4484,3 +4484,4 @@ Connection ~ 8050 1800
 Wire Wire Line
 	8050 1800 7950 1800
 $EndSCHEMATC
+
